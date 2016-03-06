@@ -4,6 +4,7 @@
     "uwp.10.0.app": {}
   },
   "dependencies": {
+    "Autofac": "3.5.2",
     "Microsoft.NETCore": "5.0.0",
     "Microsoft.NETCore.Portable.Compatibility": "1.0.0",
     "reactiveui": "6.5.0",

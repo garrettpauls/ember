@@ -50,6 +50,7 @@
     <Compile Include="..\Unsorted.PCL\DisposableTracker.cs">
       <Link>DisposableTracker.cs</Link>
     </Compile>
+    <Compile Include="Autofac\AutofacDependencyResolver.cs" />
     <Compile Include="MVVM\DisposableViewModel.cs" />
     <Compile Include="MVVM\IView.cs" />
     <Compile Include="MVVM\RoutableViewModel.cs" />
