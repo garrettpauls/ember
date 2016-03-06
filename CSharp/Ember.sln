@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unsorted.PCL", "Unsorted.PC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unsorted.PCL.Tests", "Unsorted.PCL.Tests\Unsorted.PCL.Tests.csproj", "{FEAA42AE-931F-4FE6-A7D7-A10E234B9DDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveUI", "ReactiveUI\ReactiveUI.csproj", "{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,18 @@ Global
 		{FEAA42AE-931F-4FE6-A7D7-A10E234B9DDB}.Release|x86.ActiveCfg = Release|x86
 		{FEAA42AE-931F-4FE6-A7D7-A10E234B9DDB}.Release|x86.Build.0 = Release|x86
 		{FEAA42AE-931F-4FE6-A7D7-A10E234B9DDB}.Release|x86.Deploy.0 = Release|x86
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Debug|x64.Build.0 = Debug|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Debug|x86.Build.0 = Debug|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Release|x64.ActiveCfg = Release|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Release|x64.Build.0 = Release|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Release|x86.ActiveCfg = Release|Any CPU
+		{CF5D5F22-50D6-4E82-85E6-73647CA33EBF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
